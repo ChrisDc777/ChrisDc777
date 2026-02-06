@@ -14,7 +14,7 @@ I build **scalable web systems** and **AI-powered applications** across backend,
 - 🤝 Open to collaborations where **software engineering meets AI**
 
 ## 📬 Connect
-- 📧 [Email](mailto:chrisdcosta.work@gmail.com)  
+- 📧 [chrisdcosta.work@gmail.com](mailto:chrisdcosta.work@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/chrisdcosta777/)  
 - 🌐 [Website](https://chrisdcosta.vercel.app)
 
