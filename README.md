@@ -17,6 +17,6 @@ I’m interested in building scalable systems and working across backend enginee
 
 ## 📬 Connect
 - 📧 [chrisdcosta.work@gmail.com](mailto:chrisdcosta.work@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/chrisdcosta777/)  
-- 🌐 [Website](https://chrisdcosta.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chrisdco/)  
+- 🌐 [Website](https://chrisdco.vercel.app)
 
